@@ -1,16 +1,14 @@
-## Hi there 👋
+# 💫 Sobre Mi:
+🔭 Hola! Soy Maxi<br>Programador Jr Terminando su carrera Tecnica.<br>
+<p align="">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFkc3pyMTVwa3phbnlmYmZlOGp5b2VleW1id3czNGF1MWYweHV5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CiZ9e5IUPqeVFzc8Mp/giphy.gif" width="400"/>
+</p>
 
-<!--
-**bak1-H/bak1-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/misstake_u/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-huerta-gonzalez-b488922b3/) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tecnologias:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bak1-H&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
