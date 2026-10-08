@@ -36,7 +36,7 @@
 
 **Práctica profesional en logística y retail**: migré procesos de automatización de Python a cronjobs en TypeScript (Node.js, Docker, pino, Jest), construí RPAs con Playwright, procesos de carga y consulta sobre BigQuery y PostgreSQL, alertas y reportes automáticos por correo y Microsoft Teams, y desarrollé una aplicación interna fullstack (React, NestJS, TypeORM, PostgreSQL) con roles, auditoría y conteo cíclico.
 
-# 🚀 Proyectos destacados
+# 🚀 Proyectos Personales / Academicos
 
 - [**pedidos360**](https://github.com/bak1-H/pedidos360-M-C-S): frontend Angular, BFF en Spring Boot, AWS API Gateway como única puerta pública y autenticación con Microsoft Entra ID (JWT validado en gateway y en el BFF).
 - [**BOT_DISCORD_MUSICA**](https://github.com/bak1-H/BOT_DISCORD_MUSICA): bot de Discord en Python con un agente LangGraph + Gemini en lenguaje natural, activación por voz con detección local (Vosk) y más de 780 pruebas.
