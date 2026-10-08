@@ -40,8 +40,7 @@
 
 - [**pedidos360**](https://github.com/bak1-H/pedidos360-M-C-S): frontend Angular, BFF en Spring Boot, AWS API Gateway como única puerta pública y autenticación con Microsoft Entra ID (JWT validado en gateway y en el BFF).
 - [**BOT_DISCORD_MUSICA**](https://github.com/bak1-H/BOT_DISCORD_MUSICA): bot de Discord en Python con un agente LangGraph + Gemini en lenguaje natural, activación por voz con detección local (Vosk) y más de 780 pruebas.
-- [**MS-Coincidencias**](https://github.com/bak1-H/MS-Coincidencias): microservicio en Java.
-- [**rpa-duoc**](https://github.com/bak1-H/rpa-duoc): automatización con TypeScript.
+- [**MS-Coincidencias**](https://github.com/bak1-H/MS-Coincidencias): microservicio en Java con SpringBoot.
 - [**portfolio**](https://github.com/bak1-H/portfolio): sitio personal con Astro y Tailwind CSS.
 
 # 📊 GitHub Stats
