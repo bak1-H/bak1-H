@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-huerta-gonzalez-b488922b3/)
 
-# 💻 Tecnologías
+# 💻 Tecnologías con las que he trabajado!
 
 **Frontend**
 
